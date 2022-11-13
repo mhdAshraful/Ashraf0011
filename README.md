@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashraf
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on React based open source projects...
 - 📫 How to reach me find me at www.linkedin.com/in/mraislam 
 
