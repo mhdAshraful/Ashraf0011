@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashraf
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning MERN
+- 👀 I’m a Fullstack Web Developer (MERN Stack)
+- 🌱 I’m interested in learning WebGL and Python-Django Stack
 - 💞️ I’m looking to collaborate on React based open source projects...
 - 📫 How to reach me: www.linkedin.com/in/mraislam 
 
